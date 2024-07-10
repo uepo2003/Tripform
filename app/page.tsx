@@ -38,7 +38,7 @@ import { Button } from "@/components/ui/button"
   
           <div className="text-center space-y-1 mt-4">
             <h3 className=" text-lg font-medium">
-            　Press here when you're done typing.
+            　{`Press here when you're done typing.`}
             </h3>
             <h3 className="text-lg font-medium">
               ↓
